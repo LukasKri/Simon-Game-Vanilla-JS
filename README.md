@@ -27,14 +27,13 @@ Simon Game was invented by Ralph H. Baer, Howard J. Morrison, and software progr
 All you need is just a web browser and internet access.
 
 ## Gained knowledge
-* HTML structure and the hierarchy of HTML page
 * Basic DOM manipulation via JavaScript:
   * Targeting nodes and its properties and methods
   * Using events for dynamic changes
-  * Recursion technique to develop a JavaScript recursive function, which is a function that calls itself.
+  * Recursion technique to develop a JavaScript recursive function, which is a function that calls itself
 
 ## Screenshot
-![screenshot](https://user-images.githubusercontent.com/23439837/107152986-d32c8d80-6973-11eb-9827-d792305e995b.jpg)
+![ss](https://user-images.githubusercontent.com/23439837/121064006-b85a1080-c7cf-11eb-9889-a9c8dce2c3f4.jpg)
 
 ## Status
 Project is: _finished_.
