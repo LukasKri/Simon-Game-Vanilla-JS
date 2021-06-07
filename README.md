@@ -3,7 +3,7 @@
 I made a popular Simon Game. HTML-DOM manipulation was made via JavaScript.
 
 # Live demo
-
+https://lukaskri.github.io/simon-game/
 
 ## Table of contents
 * [General info](#general-info)
