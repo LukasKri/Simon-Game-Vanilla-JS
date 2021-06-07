@@ -1,6 +1,6 @@
 # About
 
-I made a popular Simon Game. HTML-DOM manipulation was made via JavaScript.
+I made a popular Simon Game. HTML-DOM manipulation was made via JavaScript. 
 
 ## Live demo
 https://lukaskri.github.io/simon-game/
