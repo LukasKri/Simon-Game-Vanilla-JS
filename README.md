@@ -1,16 +1,18 @@
 # About
 
-I made a popular Simon Game. HTML-DOM manipulation was made via JavaScript. 
+I've made a popular Simon Game prototype. HTML-DOM manipulation was made via JavaScript. 
 
 ## Live demo
-https://lukaskri.github.io/simon-game/
+https://lukaskri.github.io/Simon-Game-Vanilla-JS/
+
+## GIF
+![project-gif](https://user-images.githubusercontent.com/23439837/124363700-92e0eb00-dc45-11eb-9eb6-a7e2990b7894.gif)
 
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Gained knowledge](#gained-knowledge)
-* [Screenshot](#screenshot)
 * [Status](#status)
 * [Contact](#contact)
 
@@ -20,20 +22,16 @@ Simon Game was invented by Ralph H. Baer, Howard J. Morrison, and software progr
 ## Technologies
 * HTML5
 * CSS3
-* DOM
-* JavaScript
+* JavaScript ES6
 
 ## Setup
 All you need is just a web browser and internet access.
 
 ## Gained knowledge
-* Basic DOM manipulation via JavaScript:
+* Basic DOM (Document Object Model) manipulation via JavaScript:
   * Targeting nodes and its properties and methods
   * Using events for dynamic changes
   * Recursion technique to develop a JavaScript recursive function, which is a function that calls itself
-
-## Screenshot
-![ss](https://user-images.githubusercontent.com/23439837/121064006-b85a1080-c7cf-11eb-9889-a9c8dce2c3f4.jpg)
 
 ## Status
 Project is: _finished_.
